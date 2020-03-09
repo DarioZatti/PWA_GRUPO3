@@ -2,10 +2,10 @@
 Repositorio para implementar un server Node.js y persistencia con Neo4j
 
 
-Instalacion
+*Instalacion*
 npm install
 
-Ejecutar
+*Ejecutar*
 npm run dev. Levanta por defecto en el puerto 3000.
 
 Ej: localhost:3000/aulas
